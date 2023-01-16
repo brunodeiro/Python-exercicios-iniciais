@@ -31,3 +31,7 @@ print("O resultado da divisão inteira é {}".format(divint))
 print("O resultado da potenciação é {}".format(pot))
 print("O resultado da potenciação (método alternativo) é {}".format(pot2))
 print("O resultado do resto da divisão é {}".format(resto))
+
+# Retornar também a raiz quadrada da soma dos valores.
+
+print("O resultado da raiz quadrada é: {:.2f}".format(soma**(1/2)))
